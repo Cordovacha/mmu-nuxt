@@ -1,0 +1,52 @@
+{
+  "object": "list",
+  "results": [
+    {
+      "object": "block",
+      "id": "cffc0d00-d923-475b-9d3a-5a92ec3b12a2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "43592fdf-5b76-4aa9-9d1e-dd688ef98e39"
+      },
+      "created_time": "2022-07-20T09:08:00.000Z",
+      "last_edited_time": "2022-07-20T09:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In Santiago, pollution hides the stars. It is dark and we are walking home, to the flat that we have rented for a week in the city centre. I have never seen these streets at night and passing through the capital in the shadows excites me.\nDuring the day, the streets are full of sales assistants, mostly young women, inviting you into the opticians. It is a long street and almost all the shops are opticians, almost all have a person in front of them who, in a monotonous voice, invites you to look in the mirrors and find yourself the perfect glasses. There are thousands of glasses on sale. I say I’m sorry, I have perfect eyes.\nAt night, the mirrors and glasses disappear behind metal curtains that cover the shop entrances.\nOne constant is the strip club on the corner. My stomach tells me that the place changed its design from one night to the next, but although I pass it each morning, it is open at 11 when I go to drink a coffee, I can’t understand if the change is in my mind of is real.\nAs we walk to the house, I take JT’s hand. My bag is across my body, like I have been taught. We don’t go directly to the house, we cross Plaza de Armas where the prostitutes hang out, they have voluminous bodies, an incredible waist to hip ratio, and brightly coloured clothes: they look like they’ve never felt fear. There is music: people dance. Someone has a telescope pointing to the clouds and you can pay to take a photo of the moon with your telephone.\nJT likes the entrepreneurial spirit. I think of Nona Fernandez’s book, ‘Chilean Electric’, and her memories of the square. She appears in a photo with a wooden horse, here. I am wondering if you look whether you’ll find bullet holes. I have seen a video of a woman who is shot here, in front of the columns, by a police officer, when Pinochet was in power. I saw it in the museum.\nJT continues the conversation from the restaurant. He looks at his phone to confirm which street we are in, he is planning what we are going to do tomorrow, with a little nostalgia, but grateful that he no longer lives here. I relax, enjoying the conversation, enjoying asking him about his earlier life and permitting him to take the weight off my nervous system. How different it would be if I were alone. Occasionally, he directs me, and we cross the street or change sides. He is observant, but without drama, and while telling me his jokes and making me laugh.\nYet, although I am not alone, I am anxious. I am afraid for JT’s telephone. I am alarmed that he doesn’t seem to have noticed that it is visible in his trouser pocket. I tell him.\nNobody’s told you that…?\nNo. He knows that it’s not the best idea, but… his eyes see a different city to mine, he has received another story, he’s been given other warnings, a different lecture about the city. Strangers have told me that I must hide my phone, in case someone passes me, running, and steals it from my hand. Women tell me that I mustn’t wear necklaces or other pretty things. Men list for me places where I mustn’t go. As a precaution, I record maps in my mind, learn routes and memorise the location of notable places so that my telephone doesn’t need to leave my handbag.\nJT’s telephone returns to his pocket.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In Santiago, pollution hides the stars. It is dark and we are walking home, to the flat that we have rented for a week in the city centre. I have never seen these streets at night and passing through the capital in the shadows excites me.\nDuring the day, the streets are full of sales assistants, mostly young women, inviting you into the opticians. It is a long street and almost all the shops are opticians, almost all have a person in front of them who, in a monotonous voice, invites you to look in the mirrors and find yourself the perfect glasses. There are thousands of glasses on sale. I say I’m sorry, I have perfect eyes.\nAt night, the mirrors and glasses disappear behind metal curtains that cover the shop entrances.\nOne constant is the strip club on the corner. My stomach tells me that the place changed its design from one night to the next, but although I pass it each morning, it is open at 11 when I go to drink a coffee, I can’t understand if the change is in my mind of is real.\nAs we walk to the house, I take JT’s hand. My bag is across my body, like I have been taught. We don’t go directly to the house, we cross Plaza de Armas where the prostitutes hang out, they have voluminous bodies, an incredible waist to hip ratio, and brightly coloured clothes: they look like they’ve never felt fear. There is music: people dance. Someone has a telescope pointing to the clouds and you can pay to take a photo of the moon with your telephone.\nJT likes the entrepreneurial spirit. I think of Nona Fernandez’s book, ‘Chilean Electric’, and her memories of the square. She appears in a photo with a wooden horse, here. I am wondering if you look whether you’ll find bullet holes. I have seen a video of a woman who is shot here, in front of the columns, by a police officer, when Pinochet was in power. I saw it in the museum.\nJT continues the conversation from the restaurant. He looks at his phone to confirm which street we are in, he is planning what we are going to do tomorrow, with a little nostalgia, but grateful that he no longer lives here. I relax, enjoying the conversation, enjoying asking him about his earlier life and permitting him to take the weight off my nervous system. How different it would be if I were alone. Occasionally, he directs me, and we cross the street or change sides. He is observant, but without drama, and while telling me his jokes and making me laugh.\nYet, although I am not alone, I am anxious. I am afraid for JT’s telephone. I am alarmed that he doesn’t seem to have noticed that it is visible in his trouser pocket. I tell him.\nNobody’s told you that…?\nNo. He knows that it’s not the best idea, but… his eyes see a different city to mine, he has received another story, he’s been given other warnings, a different lecture about the city. Strangers have told me that I must hide my phone, in case someone passes me, running, and steals it from my hand. Women tell me that I mustn’t wear necklaces or other pretty things. Men list for me places where I mustn’t go. As a precaution, I record maps in my mind, learn routes and memorise the location of notable places so that my telephone doesn’t need to leave my handbag.\nJT’s telephone returns to his pocket.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ],
+  "next_cursor": null,
+  "has_more": false,
+  "type": "block",
+  "block": {}
+}

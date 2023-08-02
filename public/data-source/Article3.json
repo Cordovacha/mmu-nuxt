@@ -1,0 +1,505 @@
+{
+  "object": "list",
+  "results": [
+    {
+      "object": "block",
+      "id": "0f08c3b1-5134-401e-80e5-f1d6d9d905b4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "8b13bf96-11c7-49d0-9115-a7bf908bd238"
+      },
+      "created_time": "2022-07-20T09:13:00.000Z",
+      "last_edited_time": "2022-07-20T09:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Temuco, May 2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Temuco, May 2022",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "72645df6-536e-421c-8c3a-46c177fec8a4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "8b13bf96-11c7-49d0-9115-a7bf908bd238"
+      },
+      "created_time": "2022-07-20T09:13:00.000Z",
+      "last_edited_time": "2022-07-20T09:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "It’s autumn and the weather has turned cold. Colder than I expected.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "It’s autumn and the weather has turned cold. Colder than I expected.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e6b8db69-7c73-4008-9cce-7100117d9588",
+      "parent": {
+        "type": "page_id",
+        "page_id": "8b13bf96-11c7-49d0-9115-a7bf908bd238"
+      },
+      "created_time": "2022-07-20T09:13:00.000Z",
+      "last_edited_time": "2022-07-20T09:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In the morning, when we wake up, we discover that the car windows are covered with a thin, hard layer of white ice – frost. JT stares at it, pulls his phone out from his jeans pocket and, like a tourist, begins to take photos. He has never seen a frozen car before.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In the morning, when we wake up, we discover that the car windows are covered with a thin, hard layer of white ice – frost. JT stares at it, pulls his phone out from his jeans pocket and, like a tourist, begins to take photos. He has never seen a frozen car before.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "772fac57-b899-49e1-b755-1eb2d808ff02",
+      "parent": {
+        "type": "page_id",
+        "page_id": "8b13bf96-11c7-49d0-9115-a7bf908bd238"
+      },
+      "created_time": "2022-07-20T09:13:00.000Z",
+      "last_edited_time": "2022-07-20T09:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I have. Many times. It reminds me of winters in England, where my hands froze each morning as I de-iced my car before the daily ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I have. Many times. It reminds me of winters in England, where my hands froze each morning as I de-iced my car before the daily ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "commute",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "commute",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", before going to work. For me, this is not new. I open my wallet, select an old bank card and begin to remove the ice. I ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", before going to work. For me, this is not new. I open my wallet, select an old bank card and begin to remove the ice. I ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "scrape",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "scrape",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " the edge of the card against the glass and the ice falls away like snow.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " the edge of the card against the glass and the ice falls away like snow.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "283ce6d7-2b36-4e62-9932-aa2f28a98566",
+      "parent": {
+        "type": "page_id",
+        "page_id": "8b13bf96-11c7-49d0-9115-a7bf908bd238"
+      },
+      "created_time": "2022-07-20T09:13:00.000Z",
+      "last_edited_time": "2022-07-20T09:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "da381342-f96e-4db5-81c6-0dc49fb7e0fd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "8b13bf96-11c7-49d0-9115-a7bf908bd238"
+      },
+      "created_time": "2022-07-20T09:13:00.000Z",
+      "last_edited_time": "2022-07-20T09:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Above Temuco is a hill, Cerro Ñielol. Wearing sweaters, coats, gloves and our hiking boots, we cross the city. The streets smell of smoke. I feel the sour air at the back of my throat. It’s uncomfortable. Although it’s no longer a requirement to wear masks in public in Chile, most people do. Maybe because of the pollution.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Above Temuco is a hill, Cerro Ñielol. Wearing sweaters, coats, gloves and our hiking boots, we cross the city. The streets smell of smoke. I feel the sour air at the back of my throat. It’s uncomfortable. Although it’s no longer a requirement to wear masks in public in Chile, most people do. Maybe because of the pollution.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "474cc0a0-f6df-4f9f-b045-0a4b37fa4fc2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "8b13bf96-11c7-49d0-9115-a7bf908bd238"
+      },
+      "created_time": "2022-07-20T09:13:00.000Z",
+      "last_edited_time": "2022-07-20T09:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "At the bottom of the hill, we pass through the gates and begin to climb the hill, following the bends of the curving path through the thick bamboo. Normally, when I think of bamboo, I think of China and pandas. However, there is one type of bamboo that is native to Chile, and which grows in the south. It’s called ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "At the bottom of the hill, we pass through the gates and begin to climb the hill, following the bends of the curving path through the thick bamboo. Normally, when I think of bamboo, I think of China and pandas. However, there is one type of bamboo that is native to Chile, and which grows in the south. It’s called ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "colihue",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "colihue",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " or ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " or ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "chusquea culeou",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "chusquea culeou",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", and in the forest it fills the spaces between the trees. Some of the thick bamboo was young and green. Other areas were dead and grey. Apparently, it doesn’t die in a frost, but after it produces flowers (which only happens about every twenty years) the whole plant dies. I imagine the bamboo in flower must be spectacular.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", and in the forest it fills the spaces between the trees. Some of the thick bamboo was young and green. Other areas were dead and grey. Apparently, it doesn’t die in a frost, but after it produces flowers (which only happens about every twenty years) the whole plant dies. I imagine the bamboo in flower must be spectacular.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a0661a8b-380f-4d1a-8050-1a03fc130159",
+      "parent": {
+        "type": "page_id",
+        "page_id": "8b13bf96-11c7-49d0-9115-a7bf908bd238"
+      },
+      "created_time": "2022-07-20T09:13:00.000Z",
+      "last_edited_time": "2022-07-20T09:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Here, the air is clearer, and I feel the difference in my lungs as I breathe. Later I search the internet for maps which show pollution readings. Temuco appears yellow, all except the green ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Here, the air is clearer, and I feel the difference in my lungs as I breathe. Later I search the internet for maps which show pollution readings. Temuco appears yellow, all except the green ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "splodge",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "splodge",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " marking Cerro Ñielol. Santiago, of course, is red.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " marking Cerro Ñielol. Santiago, of course, is red.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ],
+  "next_cursor": null,
+  "has_more": false,
+  "type": "block",
+  "block": {}
+}

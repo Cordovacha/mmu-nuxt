@@ -1,0 +1,903 @@
+{
+  "object": "list",
+  "results": [
+    {
+      "object": "block",
+      "id": "b18a22b2-375d-4a46-a1fa-8e064ba7a043",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cactuses, or cacti, grow in deserts, not trees",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cactuses, or cacti, grow in deserts, not trees",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9cc23c4f-5a9c-4fd8-8b67-df09162e4aad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Or at least that’s what I thought. And thinking about cactuses, or cacti, I wondered whether even they would survive in the driest desert in the world. And whether, if they did, they would be green. The cactuses I’d seen in La Serena on the side of Cerro Grande facing the sea were green, thanks to the daily wrapping of mist, but the side facing the mountains were brown or grey, not at all like the green cartoon cactuses which decorate my llama mug, or my father’s knitted cactus which sits on the windowsill in the lounge.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Or at least that’s what I thought. And thinking about cactuses, or cacti, I wondered whether even they would survive in the driest desert in the world. And whether, if they did, they would be green. The cactuses I’d seen in La Serena on the side of Cerro Grande facing the sea were green, thanks to the daily wrapping of mist, but the side facing the mountains were brown or grey, not at all like the green cartoon cactuses which decorate my llama mug, or my father’s knitted cactus which sits on the windowsill in the lounge.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fe1a20b7-4dd5-4387-a54e-74f73181f981",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ariel Dorfman, in his book ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ariel Dorfman, in his book ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Desert Memories: Journeys through the Chilean North",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Desert Memories: Journeys through the Chilean North",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", made the desert sound empty – a landscape of space dotted with abandoned nitrate towns. Sad towns whose existence was the result of fickle economic greed.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", made the desert sound empty – a landscape of space dotted with abandoned nitrate towns. Sad towns whose existence was the result of fickle economic greed.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b4c5aa12-0c8e-4b97-9ab3-d6e92f251c8d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The desert is spacious, but it is hardly empty",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The desert is spacious, but it is hardly empty",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7ed4b756-4d1b-4dca-91c9-17e15b6f5aec",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Early one evening, when the sun had dropped low enough that his rays no longer scorched my skin, in that magic hour, before the chill of the desert night descended, I asked for a mini adventure, got into the car and, with a friend, drove into the desert. Off the main road, we passed paddocks of solar panels and I wondered if they were self-cleaning, or rather, if they were designed so that dirt wouldn’t cling to them. Dust coasts everything in the desert. It sweeps across the road, swirls, thickens and becomes mini sand tornadoes which waltz across the empty land, unaware that they’re the last at the party and everyone else has gone home.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Early one evening, when the sun had dropped low enough that his rays no longer scorched my skin, in that magic hour, before the chill of the desert night descended, I asked for a mini adventure, got into the car and, with a friend, drove into the desert. Off the main road, we passed paddocks of solar panels and I wondered if they were self-cleaning, or rather, if they were designed so that dirt wouldn’t cling to them. Dust coasts everything in the desert. It sweeps across the road, swirls, thickens and becomes mini sand tornadoes which waltz across the empty land, unaware that they’re the last at the party and everyone else has gone home.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f561388c-b0db-4009-bf6c-a92f3ee37095",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Sometimes man’s power astounds me – fat, blue grapes grow in neat, tended rows at the side of the track, their roots bedded in imported soil, irrigated with water that’s pumped up like oil from the depths.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Sometimes man’s power astounds me – fat, blue grapes grow in neat, tended rows at the side of the track, their roots bedded in imported soil, irrigated with water that’s pumped up like oil from the depths.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b86f598c-cd01-46d2-ba37-9612e9e638aa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Human magic defies the desert",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Human magic defies the desert",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "0b816c1e-7946-4b3c-839e-adb0e5873279",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Driving slowly, with me gripping my seatbelt as the car laboured forward, off the main road, we came to the abandoned village of Cumiñalla, the sort of settlement Dorfman had described – a single street of roofless houses, doorless doorways and crumbling walls which reminded me of those quiet corners of Pompei.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Driving slowly, with me gripping my seatbelt as the car laboured forward, off the main road, we came to the abandoned village of Cumiñalla, the sort of settlement Dorfman had described – a single street of roofless houses, doorless doorways and crumbling walls which reminded me of those quiet corners of Pompei.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "30516b7a-55a6-4ea8-9aa4-0106053ed04f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "It’s difficult to tell how big this place ever was, as now it has crumbled into ruins akin to some ancient town, you could have told me that these ruins had been here hundreds of years, although I’m told people were still living her forty years ago. Akin to the living town of Pozo Almonte which had reminded me of images of the Wild West, barren Cumiñalla seems to have existed despite the odds, and as its cards changed, had disintegrated into dust.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "It’s difficult to tell how big this place ever was, as now it has crumbled into ruins akin to some ancient town, you could have told me that these ruins had been here hundreds of years, although I’m told people were still living her forty years ago. Akin to the living town of Pozo Almonte which had reminded me of images of the Wild West, barren Cumiñalla seems to have existed despite the odds, and as its cards changed, had disintegrated into dust.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "aad6b8b5-914e-4875-80f3-f0356eb32ff4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Built in the desperation to harvest the rich nitrates from the abundant desert, Pozo Almonte had survived, probably because it sits on Ruta Cinco, the same tarmac road that I crossed many times in La Serena, which runs from the Peruvian border, down through the desert, straight through Santiago and continues all the way to Chiloe. Pozo Almonte offers a point of respite. Migrants cluster in the square where I’d drank a mango juice. Juice drunk, I slide back into the car seat and switch up the air conditioning. The migrants get to their feet and walk south.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Built in the desperation to harvest the rich nitrates from the abundant desert, Pozo Almonte had survived, probably because it sits on Ruta Cinco, the same tarmac road that I crossed many times in La Serena, which runs from the Peruvian border, down through the desert, straight through Santiago and continues all the way to Chiloe. Pozo Almonte offers a point of respite. Migrants cluster in the square where I’d drank a mango juice. Juice drunk, I slide back into the car seat and switch up the air conditioning. The migrants get to their feet and walk south.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "41add175-077d-41d2-aa8f-f6900e6147ea",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "People are astounding.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "People are astounding.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "06a2e73d-86da-4902-a7bb-f55a34444af8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The desert is rich in nitrate deposits",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The desert is rich in nitrate deposits",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b8b50291-5151-4b3b-8280-21f94f693f25",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In his book, Dorfman describes how once upon a time, in 1910, Chile supplied 65% of the world’s nitrogen-based fertilizers, twenty years later, he states, only 10%. Neither the First World War nor the depression of the 30s helped demand, and competition outpaced production once some scientists in a German laboratory came up with a synthetic alternative. These tiny settlements were built for the nitrate industry, and without it, they all but disappeared.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In his book, Dorfman describes how once upon a time, in 1910, Chile supplied 65% of the world’s nitrogen-based fertilizers, twenty years later, he states, only 10%. Neither the First World War nor the depression of the 30s helped demand, and competition outpaced production once some scientists in a German laboratory came up with a synthetic alternative. These tiny settlements were built for the nitrate industry, and without it, they all but disappeared.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "cb82dd19-ee4c-4058-b4bf-e29bf44f05af",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Camera in hand, I set out to explore. You intuitively know that this is a place where to survive depends on preparation. For me, clambering through the ruins reminded me of exploring empty castles with my grandparents. It was an adventure. But out here, far from the coast and far from the mountains, surrounded by sand, you cannot rely on your phone to have signal. You don’t expect to stumble across water. Here, tinned food had been an essential and my exploration found scatterings of empty tins, to which the desert was entirely apathetic.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Camera in hand, I set out to explore. You intuitively know that this is a place where to survive depends on preparation. For me, clambering through the ruins reminded me of exploring empty castles with my grandparents. It was an adventure. But out here, far from the coast and far from the mountains, surrounded by sand, you cannot rely on your phone to have signal. You don’t expect to stumble across water. Here, tinned food had been an essential and my exploration found scatterings of empty tins, to which the desert was entirely apathetic.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9d8f62f2-80ba-42a0-bc14-bb5c24dd9646",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "And as if in a children’s novel, I stepped through a doorway and stumbled upon a forest",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "And as if in a children’s novel, I stepped through a doorway and stumbled upon a forest",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "667e6fc2-78fd-424e-81c6-207c188afa09",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cactuses, I’ve learnt, survive by piercing the morning fog, making it bleed onto the dry ground, drip into their thirsty, shallow roots. Even so, I hadn’t expected to encounter a forest in the Atacama. I’d felt similarly perplexed when I had been in San Pedro – surprised by the green. Trees, it seems, grow here because of the incredible depth of their roots. I’m told the water lays twenty or thirty metres below us. What I wonder is how the saplings survive. How does a tree grow to have twenty-metre-long roots without water? After all, here it never rains. But there were trees.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cactuses, I’ve learnt, survive by piercing the morning fog, making it bleed onto the dry ground, drip into their thirsty, shallow roots. Even so, I hadn’t expected to encounter a forest in the Atacama. I’d felt similarly perplexed when I had been in San Pedro – surprised by the green. Trees, it seems, grow here because of the incredible depth of their roots. I’m told the water lays twenty or thirty metres below us. What I wonder is how the saplings survive. How does a tree grow to have twenty-metre-long roots without water? After all, here it never rains. But there were trees.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7d93b84a-7da5-4a2f-9855-7222bda917f7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "And amid the trees was a gate, which was unlocked especially for me. And, invited in, I wandered into the terrain of an abandoned house, skipping though swirls of dust, leaving my footprints in the sand. The breeze pulled on my skirt and tangled it between my legs. There had been a great fire, and the house here, built of parched wood, lit up in flames and was gone. The kitchen garden had been reclaimed by the desert, but the rabbit hutches and chicken coops remained, as did a wooden cart, which had once been used to deliver fruit and vegetables. It stood padlocked to a tree",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "And amid the trees was a gate, which was unlocked especially for me. And, invited in, I wandered into the terrain of an abandoned house, skipping though swirls of dust, leaving my footprints in the sand. The breeze pulled on my skirt and tangled it between my legs. There had been a great fire, and the house here, built of parched wood, lit up in flames and was gone. The kitchen garden had been reclaimed by the desert, but the rabbit hutches and chicken coops remained, as did a wooden cart, which had once been used to deliver fruit and vegetables. It stood padlocked to a tree",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "32041392-a8f3-43ad-81b6-e9ef109939ca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "And lodged on a sideboard, an unwanted blue teapot",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "And lodged on a sideboard, an unwanted blue teapot",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a9018bbc-d13b-4a5f-999d-977e92d25e7e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Abandoning a town when there is no work left is understandable as is abandoning a house when it burns down, or a city when it is no longer safe, but to abandon a teapot? This I could not understand.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Abandoning a town when there is no work left is understandable as is abandoning a house when it burns down, or a city when it is no longer safe, but to abandon a teapot? This I could not understand.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "093d2b71-be4b-4d82-a7fe-6641e08ffdb8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12a2b74b-2603-4b6f-b27d-9014ae2c272f"
+      },
+      "created_time": "2022-07-20T09:16:00.000Z",
+      "last_edited_time": "2022-07-20T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c2d175fa-705a-425f-9d79-505b18e98eb8"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "And it was easier to ponder the existence of this teapot than imagine the horror faced by all those migrants walking through the world’s driest desert, unwilling to abandon the hope of a better life.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "And it was easier to ponder the existence of this teapot than imagine the horror faced by all those migrants walking through the world’s driest desert, unwilling to abandon the hope of a better life.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ],
+  "next_cursor": null,
+  "has_more": false,
+  "type": "block",
+  "block": {}
+}
